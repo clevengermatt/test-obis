@@ -368,5 +368,5 @@
       "description": "Composed operation: places an order and tracks it via live event stream"
     }
   },
-  "x-panjir-claim": "pj_claim_bd4fad53cf6446b1d86c968cf333ffc6"
+  "x-panjir-claim": "pj_claim_c83348199029a2f5f776991ef06096b3"
 }
